@@ -1,4 +1,4 @@
-[
+getStuff([
   {
     "key": "sa-east-1",
     "latitude": -14.235004,
@@ -29,4 +29,4 @@
     "longitude": -122.679565,
     "name": "Oregon"
   }
-  ]
+  ])
